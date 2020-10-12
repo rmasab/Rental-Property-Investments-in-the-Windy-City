@@ -1,7 +1,16 @@
-# RONAMASAB-CAPSTONE2
+# Capstone 2
+### Rental Property Investments in the Windy City ###
 
-I conducted an analysis on AirBnB data in Chicago. This analysis provides clients with the necessary information they need to look into rental properties and invest in the Chicago area. 
+ * **Objective:** Investigate neighborhoods, property types and competitors in Chicago to maximize success in rental investments for startup hospitality company
+ * **Recommendations:**
+    * Invest in properties in less saturated neighborhoods such as Lincoln Park
+    * Invest in property types that are entire homes/apartments 
+ * **Next Steps:**
+    * What amenities are most popular in these listings?
+    * Conduct analysis on renter demographics
+    * Conduct analysis on other major US cities
 
-# Link to presentation: https://tinyurl.com/ronamasab-capstone2
+ **Programs/Languages Used:** Python, Pandas, Seaborn, Tableau
 
-## Data can be found here: (AirBnB Data)[http://insideairbnb.com/get-the-data.html]
+ **Source:** http://insideairbnb.com/get-the-data.html
+
